@@ -1,2 +1,4 @@
 # material
 Please use our postcards, logos &amp; designs for the "FORUM OffeneStadt" - all published under CC BY-SA 4.0 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Content</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="http://offenestadt.info" property="cc:attributionName" rel="cc:attributionURL">Open Knowledge Foundation Deutschland e.V.</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.<br />Beruht auf dem Werk unter <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/OffeneStadt/material/" rel="dct:source">https://github.com/OffeneStadt/material/</a>.
